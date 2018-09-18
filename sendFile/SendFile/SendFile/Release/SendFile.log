@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\cppspace\sendfile\sendfile\sendfile\main.cpp(128): warning C4244: “参数”: 从“std::streamsize”转换到“int”，可能丢失数据
+  正在生成代码
+  All 137 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  SendFile.vcxproj -> D:\cppSpace\sendFile\SendFile\Release\SendFile.exe
